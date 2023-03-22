@@ -1,1 +1,7 @@
-code Executable
+Non--convex total generalized variation for mixed Poisson-Gaussian denoising".
+
+Author: Pham C.T
+Date: 22/03/2023
+
+This is a companion software for the paper: Pham C.T., Tran T.T.T., Dang H.P. Image noise removal method based on non--convex total generalized variation and primal-dual algorithm, Computer research and modeling, 2023.
+
